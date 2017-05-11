@@ -1,5 +1,15 @@
 "File list to include" 
 2:48 PM 5/5/2017
 more testing (diff)
+<<<<<<< HEAD
 8:22 AM 5/11/2017
 switched back to MASTER to create HOTFIX for PROD issue
+=======
+8:14 AM 5/11/2017
+playing with BRANCHING and MERGING. This is an addition based on issue 53 (iss53)
+8:19 AM 5/11/2017
+did a commit but it seems this file is not ADDED??
+8:27 AM 5/11/2017
+so MASTER and HOTFIX have been merged. HOTFIX deleted and back to ISS53.
+
+>>>>>>> iss53
