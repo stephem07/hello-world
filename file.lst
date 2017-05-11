@@ -1,10 +1,9 @@
 "File list to include" 
+
 2:48 PM 5/5/2017
 more testing (diff)
-<<<<<<< HEAD
 8:22 AM 5/11/2017
 switched back to MASTER to create HOTFIX for PROD issue
-=======
 8:14 AM 5/11/2017
 playing with BRANCHING and MERGING. This is an addition based on issue 53 (iss53)
 8:19 AM 5/11/2017
@@ -12,7 +11,7 @@ did a commit but it seems this file is not ADDED??
 8:27 AM 5/11/2017
 so MASTER and HOTFIX have been merged. HOTFIX deleted and back to ISS53.
 
->>>>>>> iss53
+
 9:02 AM 5/11/2017
 so the previous stuff was part of a HOTFIX merge activity. When there is a discrepency GIT looks to you to merge manually??
 trying the whole thing again to take better note
@@ -20,3 +19,6 @@ trying the whole thing again to take better note
 please contact us at email.support@github.com
 </div>
 fix version
+
+11:35 AM 5/11/2017nifty...this appears to be a very old (orig) copy of this file. Ran a git fetch origin
+
